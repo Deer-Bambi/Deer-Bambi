@@ -1,13 +1,13 @@
 <div align="center">
-  <img height="160" src="https://i.ibb.co/BHTsfBGG/logo2.png" />
+  <img height="100" src="https://i.ibb.co/BHTsfBGG/logo2.png" />
 </div>
 
 <h1 align="center">
-  Hi there (｡•̀ᴗ-)✧
+  Hi there ⌯･֊･⌯ಣ
 </h1>
 
 <h3 align="center">
-  I'm WZT⌯･֊･⌯ಣ 🌱
+  I'm WZT ꩜ 
 </h3>
 
 <p align="center">
@@ -20,10 +20,6 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=ffb6c1&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deer-Bambi.Deer-Bambi&color=ffb6c1" />
 </div>
 
 ---
@@ -89,5 +85,5 @@
 ---
 
 <p align="center">
-  🌙 Thanks for visiting my profile (๑˃̵ᴗ˂̵)و ✨
+  🌙 Thanks for visiting my profile ʚ₍ᐢ..ᐢ₎₊ ˖
 </p>

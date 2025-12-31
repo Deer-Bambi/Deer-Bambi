@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi there ⌯･֊･⌯ಣ
+  Hi there ₍ᐢ..ᐢ₎₊ ˖
 </h1>
 
 <h3 align="center">
